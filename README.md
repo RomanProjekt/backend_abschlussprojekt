@@ -1,6 +1,6 @@
 # backend_abschlussprojekt
 Derzeit programmiert:
-- Model programmiert
+- Model programmiert 
 
 Noch zu programmieren sind:
 - Loginlogik
